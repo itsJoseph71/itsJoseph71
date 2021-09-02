@@ -1,0 +1,4 @@
+- Hi, I’m @itsJoseph71
+- I’m 14 y.o.
+- I’m a novice programmer
+- I’m know .css codes.
